@@ -12,6 +12,21 @@
 **Link to work**:
 ```
 
+```
+### Day 2/100
+
+**Today's Progress**:
+
+- neo4j CRUD
+- grokking AI
+
+**Thoughts**:
+
+- CYPHER 에 대해 꽤 익숙함
+- error 최소화 하는 것이 Learning. error = ((input*weight) - goad_pred) ** 2
+
+**Link to work**: None
+
 ### Day 1/100
 
 **Today's Progress**:
@@ -24,6 +39,5 @@
 - CYPHER 에 대해 익숙해지고 있다.
 - Gradient Decent 익히기.
 
-**Link to work**:
-
-- None
+**Link to work**: None
+```
