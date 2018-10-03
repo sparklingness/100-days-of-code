@@ -13,6 +13,19 @@
 ```
 
 ```
+### Day 3/100
+
+**Today's Progress**:
+
+- toss API
+- NLP
+
+**Thoughts**:
+
+- API를 효과적으로 쓰기 위한 NLP layer
+
+**Link to work**: None
+
 ### Day 2/100
 
 **Today's Progress**:
