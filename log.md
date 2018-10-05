@@ -12,7 +12,18 @@
 **Link to work**:
 ```
 
-```
+### Day 5/100
+
+**Today's Progress**:
+
+- Data Visualization : d3.js, keylines
+
+**Thoughts**:
+
+- structured data 로 변환 후, 특징/규칙 찾는 문제 즐거움(숫자 변환)
+
+**Link to work**: None
+
 ### Day 4/100
 
 **Today's Progress**:
@@ -24,7 +35,6 @@
 - 잘 안됨. 어려움. 특히 configuration(client_RTM 등)
 
 **Link to work**: None
-```
 
 ### Day 3/100
 
