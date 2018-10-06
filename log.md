@@ -12,6 +12,28 @@
 **Link to work**:
 ```
 
+### Day 6/100
+
+**Today's Progress**:
+
+- SPARQL, Python, D3JS, Network visualization
+- QA system : 
+	1. Knowledge Base = triple = graph DB, 
+	2. Schema(Domain class - Predicate - Range class)
+	3. Knowledge Embedding: Translational Distance Models/Semantic Matching Models
+	4. QA의 '현재성' 문제
+- 소비자 심리학 ---> 행동 경제학
+	1. 맥락효과
+- Interactive chart
+	1. R markdown
+
+**Thoughts**:
+
+- 향후 추가로 공부 및 적용해볼 것들
+
+**Link to work**: None
+
+
 ### Day 5/100
 
 **Today's Progress**:
@@ -23,6 +45,7 @@
 - structured data 로 변환 후, 특징/규칙 찾는 문제 즐거움(숫자 변환)
 
 **Link to work**: None
+
 
 ### Day 4/100
 
