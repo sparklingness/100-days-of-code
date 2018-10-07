@@ -29,7 +29,7 @@
 - 매일 아침 캐글 보기
 - 매일 저녁 Fast.ai 학습하기
 - Write-up 보면서 아이디어 익히고, 따라해보기
-
+ 
 **Link to work**: None
 
 
