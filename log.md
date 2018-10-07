@@ -12,6 +12,27 @@
 **Link to work**:
 ```
 
+### Day 7/100
+
+**Today's Progress**:
+
+- Tip 획득. How to Explore
+	1. 캐글 첫페이지에 ‘최신 정보’가 Facebook Feed처럼 올라옴!
+	2. 바로 시작하는게 아니라, 남들이 적어둔 아이디어를 먼저 보기
+	3. 쉬운 것 부터 시작하기. 튜토리얼/플레이그라운드 
+	4. Introduction to Machine Learning for Coders at Fast.ai 
+	5. Practical Deep Learning for Coders at Fast.ai 
+	6. How to Win a Data Science Competition at Coursera 
+
+**Thoughts**:
+
+- 매일 아침 캐글 보기
+- 매일 저녁 Fast.ai 학습하기
+- Write-up 보면서 아이디어 익히고, 따라해보기
+
+**Link to work**: None
+
+
 ### Day 6/100
 
 **Today's Progress**:
