@@ -12,6 +12,21 @@
 **Link to work**:
 ```
 
+### Day 8/100
+
+**Today's Progress**:
+
+- 금액 숫자변환 재 구현
+- Mean, Median 구현
+
+**Thoughts**:
+
+- Mode값 구할 수 있는 방법 안떠오름
+ 
+**Link to work**: None
+
+
+
 ### Day 7/100
 
 **Today's Progress**:
@@ -27,6 +42,7 @@
 **Thoughts**:
 
 - 매일 아침 캐글 보기
+- 사이사이 10 Days of Statistics
 - 매일 저녁 Fast.ai 학습하기
 - Write-up 보면서 아이디어 익히고, 따라해보기
  
