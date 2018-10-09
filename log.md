@@ -12,6 +12,21 @@
 **Link to work**:
 ```
 
+### Day 9/100
+
+**Today's Progress**:
+
+- Mode 구현
+- fast.ai ML 1강 수업듣기 시작
+
+**Thoughts**:
+
+- global
+- 수지타산
+ 
+**Link to work**: None
+
+
 ### Day 8/100
 
 **Today's Progress**:
