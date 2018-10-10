@@ -12,6 +12,22 @@
 **Link to work**:
 ```
 
+
+### Day 10/100
+
+**Today's Progress**:
+
+- Weighted Mean 구현
+- 한글 숫자 변환 기능 버그 재 수정
+
+**Thoughts**:
+
+- Success, Next Challenge 기분 좋아짐
+- IFTTT
+ 
+**Link to work**: None
+
+
 ### Day 9/100
 
 **Today's Progress**:
