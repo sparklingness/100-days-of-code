@@ -13,6 +13,20 @@
 ```
 
 
+
+### Day 11/100
+
+**Today's Progress**:
+
+- Quartiles
+
+**Thoughts**:
+
+- Sotheby's		
+ 
+**Link to work**: None
+
+
 ### Day 10/100
 
 **Today's Progress**:
