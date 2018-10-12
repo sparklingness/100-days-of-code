@@ -13,6 +13,18 @@
 ```
 
 
+### Day 12/100
+
+**Today's Progress**:
+
+- Standard Deviation
+
+**Thoughts**:
+
+- 가짜뉴스, 혐오표현 필터
+ 
+**Link to work**: None
+
 
 ### Day 11/100
 
