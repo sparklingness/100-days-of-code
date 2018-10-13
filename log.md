@@ -13,11 +13,26 @@
 ```
 
 
+### Day 13/100
+
+**Today's Progress**:
+
+- [H:S] Interquartile Range
+
+**Thoughts**:
+
+- 가짜뉴스, 혐오표현 필터
+ 
+**Link to work**: None
+
+
 ### Day 12/100
 
 **Today's Progress**:
 
-- Standard Deviation
+- [H:S] Standard Deviation
+- Hashmap 방식(?)으로 Weighted distance 구현
+- Twillio
 
 **Thoughts**:
 
@@ -30,7 +45,7 @@
 
 **Today's Progress**:
 
-- Quartiles
+- [H:S] Quartiles
 
 **Thoughts**:
 
@@ -43,7 +58,7 @@
 
 **Today's Progress**:
 
-- Weighted Mean 구현
+- [H:S] Weighted Mean 
 - 한글 숫자 변환 기능 버그 재 수정
 
 **Thoughts**:
@@ -58,7 +73,7 @@
 
 **Today's Progress**:
 
-- Mode 구현
+- [H:S] Mode 
 - fast.ai ML 1강 수업듣기 시작
 
 **Thoughts**:
@@ -74,11 +89,12 @@
 **Today's Progress**:
 
 - 금액 숫자변환 재 구현
-- Mean, Median 구현
+- [H:S] Mean, Median 
 
 **Thoughts**:
 
 - Mode값 구할 수 있는 방법 안떠오름
+- Medium의 Clap수/Category별 화면
  
 **Link to work**: None
 
