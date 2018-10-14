@@ -13,16 +13,31 @@
 ```
 
 
+### Day 14/100
+
+**Today's Progress**:
+
+- [H:S] Compound Event Probability
+
+**Thoughts**: 
+
+- Company article summary 
+ 
+**Link to work**: None
+
+
+
 ### Day 13/100
 
 **Today's Progress**:
 
 - [H:S] Interquartile Range
+- [F:T] tokenizing, pos tagging, OOV problems
 
-**Thoughts**:
-
-- 가짜뉴스, 혐오표현 필터
+**Thoughts**: None
  
+- expensive thing to sharing problem
+
 **Link to work**: None
 
 
