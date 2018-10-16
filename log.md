@@ -13,6 +13,22 @@
 ```
 
 
+### Day 16/100
+
+**Today's Progress**:
+
+- [F:T] scraping, xlrd, dict json, pickling, list comprehension
+- 한글 숫자 변환 기능 버그 재 수정 -> unittest 시급함
+- text parsing using regex, dict key/value
+
+**Thoughts**: 
+
+- Naming coverage issue
+- 숫자와 한글이 섞여있을 때의 변환 고민
+ 
+**Link to work**: None
+
+
 ### Day 15/100
 
 **Today's Progress**:
