@@ -13,6 +13,20 @@
 ```
 
 
+### Day 17/100
+
+**Today's Progress**:
+
+- [F:T] yield, word counting, zip
+- memorizing script
+
+**Thoughts**: 
+
+- Anti Facebook
+ 
+**Link to work**: None
+
+
 ### Day 16/100
 
 **Today's Progress**:
