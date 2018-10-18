@@ -17,6 +17,22 @@
 
 **Today's Progress**:
 
+- [F:T] KoNLPy
+
+**Thoughts**: 
+
+- steadily memorizing
+- reading books to start
+- decentralized amount of used
+ 
+**Link to work**: None
+
+
+
+### Day 17/100
+
+**Today's Progress**:
+
 - [F:T] yield, word counting, zip
 - memorizing script
 
