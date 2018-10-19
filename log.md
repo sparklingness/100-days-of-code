@@ -13,18 +13,31 @@
 ```
 
 
-### Day 17/100
+### Day 19/100
+
+**Today's Progress**:
+
+- Kibana, Elasticsearch, Logstash, beats
+
+**Thoughts**: 
+
+- base는 책으로 공부 필요 : 키바나 5.0
+ 
+**Link to work**: None
+
+
+### Day 18/100
 
 **Today's Progress**:
 
 - [F:T] KoNLPy
 
-**Thoughts**: 
+**Thoughts**:
 
 - steadily memorizing
 - reading books to start
 - decentralized amount of used
- 
+
 **Link to work**: None
 
 
