@@ -13,6 +13,22 @@
 ```
 
 
+### Day 20/100
+
+**Today's Progress**:
+
+- [F:T] soylnp tokenizer, unsupervised unknown NER tagging
+- 키바나 5.0 Business logs
+
+**Thoughts**:
+
+- 금융지능, 지식, 경제수학, 누구의 어떤 돈을 가져올 것인가
+- 글로벌, 온라인 밋업? 협업, 파이콘 운영자, 구글 움직임 + 알파
+
+**Link to work**: None
+
+
+
 ### Day 19/100
 
 **Today's Progress**:
