@@ -13,6 +13,25 @@
 ```
 
 
+### Day 21/100
+
+**Today's Progress**:
+
+- [F:T] HMM, CRF based tagger
+- [F:T] scipy sparse matrix : DoK, COO, CSR, CSC options
+- [F:T] PMI
+
+**Thoughts**:
+
+- statistics, probability 학습 필요
+- module화 및 배포 필요
+- API 구성 및 문서화
+- TDD 필요(향후 하위호환성 확보)
+- githubio에 설명
+
+**Link to work**: None
+
+
 ### Day 19/100
 
 **Today's Progress**:
